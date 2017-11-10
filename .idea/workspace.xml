@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b6a58b5-1a82-449f-999e-6887c399b3d9" name="Default" comment="1">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.html" afterPath="$PROJECT_DIR$/resume.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="resume.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="1093" column="40" lean-forward="false" selection-start-line="1093" selection-start-column="40" selection-end-line="1093" selection-end-column="40" />
+            <state relative-caret-position="389">
+              <caret line="1092" column="26" lean-forward="true" selection-start-line="1092" selection-start-column="26" selection-end-line="1092" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -94,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -106,7 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,11 +156,12 @@
       <workItem from="1509719498167" duration="34000" />
       <workItem from="1509719670999" duration="878000" />
       <workItem from="1510299572408" duration="169000" />
+      <workItem from="1510301135599" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6753000" />
+    <option name="totallyTimeSpent" value="6765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="241" y="84" width="1353" height="890" extended-state="0" />
@@ -199,6 +199,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20007">
@@ -410,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="1093" column="40" lean-forward="false" selection-start-line="1093" selection-start-column="40" selection-end-line="1093" selection-end-column="40" />
+        <state relative-caret-position="389">
+          <caret line="1092" column="26" lean-forward="true" selection-start-line="1092" selection-start-column="26" selection-end-line="1092" selection-end-column="26" />
           <folding />
         </state>
       </provider>
